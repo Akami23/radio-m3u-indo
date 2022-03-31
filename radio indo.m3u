@@ -1,0 +1,10 @@
+#EXTM3U
+#PLAYLIST:Online radio: Music
+#EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2022/01/trax-new-logo-2022-03-resize-300x170.png.webp" group-title="Music", Trax FM Jakarta
+http://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2022/01/trax-semarang-new-logo-2022-01-resize-300x170.png.webp" group-title="Music", Trax FM Semarang
+http://stream.radiojar.com/fr9zqhv80k8uv
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20398.v14.png" group-title="Music", REKS FM Garut
+http://stream.radbdg.net:8001/reks1037fm.mp3
+#EXTINF:-1 tvg-logo="https://gen987fm.com/uploads/themes/themes-logo-small-74031486eb23a72.png" group-title="Music", Gen FM Jakarta
+https://wz.mari.co.id:1936/web_genfm/genfm/chunklist_w543102046.m3u8
